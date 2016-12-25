@@ -6,4 +6,4 @@
  * Time: 7:38 PM
  */
 
-require_once ($_SERVER['DOCUMENT_ROOT'] . "db/connect.php");
+require_once ($_SERVER['DOCUMENT_ROOT'] . "/db/connect.php");
